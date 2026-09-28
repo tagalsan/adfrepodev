@@ -1,0 +1,15 @@
+{
+	"name": "sanketadf2026",
+	"properties": {
+		"trustModeClaimForMi": {
+			"value": "Disabled",
+			"editable": true
+		}
+	},
+	"location": "eastus",
+	"identity": {
+		"type": "SystemAssigned",
+		"principalId": "6090593d-ab0b-47e5-b3f2-ba082d1184e2",
+		"tenantId": "413fd654-3afc-49f9-b785-13204779b5ea"
+	}
+}
